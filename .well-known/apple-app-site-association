@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "323TF62U2C.com.screenrecord.master",
+                "paths": ["/share/*"]
+            }
+        ]
+    }
+}
