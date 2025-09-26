@@ -1,11 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "323TF62U2C.unzip.file.rar.7z.zip",
-                "paths": ["/share/*"]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "323TF62U2C.unzip.file.rar.7z.zip",
+        "paths": [
+          "/share/*"
         ]
-    }
+      }
+    ]
+  }
 }
